@@ -18,6 +18,7 @@ Clique no botão abaixo para implantar o sistema automaticamente no Railway:
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Ciuze/Uniestoque-Official)
 
 
+
 ## Documentação futura
 
 Em breve, será adicionado um painel de controle com login e integração para múltiplas contas Bling usando OAuth2.
