@@ -15,7 +15,7 @@ Sistema simples para unificação de estoque em tempo real entre múltiplas cont
 
 Clique no botão abaixo para implantar o sistema automaticamente no Railway:
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/yuZBrK?referralCode=uniestoque)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Ciuze/Uniestoque-Official)
 
 ## Documentação futura
 
